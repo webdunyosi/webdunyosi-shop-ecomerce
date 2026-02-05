@@ -1,1 +1,1 @@
-https://e-commerce-one-snowy.vercel.app/
+https://webdunyosi-shop-ecomerce.vercel.app/
